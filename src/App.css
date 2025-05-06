@@ -1,0 +1,16 @@
+
+.mainContainer{
+    /* border: 4px solid yellow; */
+    height: 100vh;
+
+}
+
+
+.mainsectionContainer{
+    /* border: 2px solid blue; */
+    display: flex;
+    height: 100%;
+    justify-content: space-evenly;
+}
+
+

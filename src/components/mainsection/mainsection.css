@@ -1,0 +1,19 @@
+.mainSectionContainer{
+    /* border: 2px solid yellow;  */
+    display: flex;
+    padding: 20px;
+    max-width: 99vw;
+    height: 80vh;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20px;
+    background: linear-gradient(to right, rgb(78, 78, 78), rgb(14, 15, 14));
+    color: white; /* Text color */
+    font-family: Arial, sans-serif;
+}
+
+
+
