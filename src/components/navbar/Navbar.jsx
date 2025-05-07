@@ -6,7 +6,7 @@ const Navbar = ({ onHomeClick }) => {
   return (
     <nav className="navbar">
       <div className="navbar-left">
-        <img src="src/assets/icons/svac.png" alt="Logo" className="navbar-logo" />
+        <img src="svac.png" alt="logo" className="navbar-logo" />
         <span className="navbar-appname">Bojja'sPlayfy</span>
 
         {/* Updated Home Button */}
