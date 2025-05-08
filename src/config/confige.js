@@ -9,6 +9,10 @@ import musicFile3 from '../assets/audio/vol1/v03 - Bhavayami Gopala Balam.mp3'
 import musicFile4 from '../assets/audio/vol1/v04 - Brama Kadigina Padamu.mp3'
 import musicFile5 from '../assets/audio/vol1/v05 - Chalada Harinama.mp3'
 import musicFile6 from '../assets/audio/vol1/v06 - Yemuko Chigurutadaramuna.mp3'
+import musicFile7 from '../assets/audio/vol1/v07 - Kondalalo Nelakonna.mp3'
+import musicFile8 from '../assets/audio/vol1/v08 - Muddugare Yashodha.mp3'
+import musicFile9 from '../assets/audio/vol1/v09 - Sheerabdi Kanyaku.mp3'
+import musicFile10 from '../assets/audio/vol1/v06 - Yemuko Chigurutadaramuna.mp3'
 
 
 
@@ -48,6 +52,34 @@ export const TrendingCardData = [
       heading: "Yemuko Chigurutadaramuna",
       subHeading: "Annamacharaya Nithya sankeerthana",
       musicFile: musicFile6
+    },
+
+    {
+      imgSrc: img1,
+      heading: "Kondalalo Nelakonna",
+      subHeading: "Annamacharaya Nithya sankeerthana",
+      musicFile: musicFile7
+    },
+
+    {
+      imgSrc: img1,
+      heading: "Muddugare Yashodha",
+      subHeading: "Annamacharaya Nithya sankeerthana",
+      musicFile: musicFile8
+    },
+
+    {
+      imgSrc: img1,
+      heading: "Sheerabdi Kanyaku",
+      subHeading: "Annamacharaya Nithya sankeerthana",
+      musicFile: musicFile9
+    },
+
+    {
+      imgSrc: img1,
+      heading: "Venkatesa Samo Deva (Slokam)",
+      subHeading: "Annamacharaya Nithya sankeerthana",
+      musicFile: musicFile10
     }
   ];
 
